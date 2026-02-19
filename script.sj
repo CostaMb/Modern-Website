@@ -1,5 +1,5 @@
 function showMessage() {
-    alert("Welcome to my Project 🚀");
+    alert("Welcome 🚀");
 }
 function validateForm() {
     let name = document.getElementById("name").value;
